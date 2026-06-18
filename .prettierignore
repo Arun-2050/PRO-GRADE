@@ -1,0 +1,8 @@
+/.vscode
+/nodemodules
+./dist
+
+*.env //this will ignore the .env files of all king
+.env
+.env.*
+
